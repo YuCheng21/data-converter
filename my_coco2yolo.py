@@ -1,7 +1,7 @@
 from coco2yolo import main as convert
 
 name = 'uda_part'
-path_anno = '/home/hpds/yucheng/Testing/output'
+path_anno = '/home/hpds/yucheng/data-converter/output'
 path_img = '/home/hpds/yucheng/dataset/ds_version'
 output = './output'
 category = None
